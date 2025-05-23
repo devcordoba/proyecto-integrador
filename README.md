@@ -1,2 +1,4 @@
 # proyecto-integrador
-Integrante: Lanfranco Darel Caballero
+## Integrantes: 
+- Lanfranco Darel Caballero
+- Tomás Agustín Huespe
