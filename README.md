@@ -2,4 +2,5 @@
 ## Integrantes: 
 - Lanfranco Darel Caballero
 - Tomás Agustín Huespe
-- Milton René Argüello 
+- Milton René Argüello
+- Gonzalo Nicolás Quiroga
