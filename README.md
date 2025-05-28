@@ -4,3 +4,4 @@
 - Tomás Agustín Huespe
 - Milton René Argüello
 - Gonzalo Nicolás Quiroga
+- Ángel Nicolás Rivero
