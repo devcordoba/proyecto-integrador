@@ -39,7 +39,7 @@ El sistema busca facilitar la administración diaria, la trazabilidad de envíos
 ---
 
 ## 👥 Integrantes del Equipo
-- Lanfranco Darel Caballero
+- Lanfranco Darel Caballero | Programador especialista en ciberseguridad
 - Tomás Agustín Huespe
 - Milton René Argüello
 - Gonzalo Nicolás Quiroga | Enfocado en frontend y experiencia en HTML, CSS y React. |
