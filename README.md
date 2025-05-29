@@ -41,7 +41,7 @@ El sistema busca facilitar la administración diaria, la trazabilidad de envíos
 ## 👥 Integrantes del Equipo
 - Lanfranco Darel Caballero | Programador especialista en ciberseguridad
 - Tomás Agustín Huespe
-- Milton René Argüello
+- Milton René Argüello | Enfocado en Backend, principalmente .NET, y conocimientos en HTML, CSS y React. |
 - Gonzalo Nicolás Quiroga | Enfocado en frontend y experiencia en HTML, CSS y React. |
 - Ángel Nicolás Rivero
 
